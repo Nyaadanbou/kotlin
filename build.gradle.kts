@@ -27,7 +27,7 @@ group = "me.gamercoder215.kotlinmc"
 version = kotlinVersion
 description = "A Library Jar containing various Kotlin Dependencies for Minecraft Plugins."
 
-project.ext["url"] = "https://github.com/gmitch215/KotlinMC"
+project.ext["url"] = "https://github.com/Nyaadanbou/kotlin"
 project.ext["kotlin_version"] = kotlinVersion
 
 tasks {

@@ -106,7 +106,7 @@ if [ "${upgrade}" = "true" ]; then
     kotlinx_io_changelog="- \`kotlinx-io\` ${kotlin_io_diff}\n"
     kotlinx_datetime_changelog="- \`kotlinx-datetime\` ${kotlin_datetime_diff}\n"
 
-    changelog_end="\n## [View on GitHub](https://github.com/gmitch215/KotlinMC)"
+    changelog_end="\n## [View on GitHub](https://github.com/Nyaadanbou/kotlin)"
 
     changelog="${header}${kotlin_changelog}${kotlinx_coroutines_changelog}${kotlinx_serialization_changelog}${kotlinx_atomicfu_changelog}${kotlinx_io_changelog}${kotlinx_datetime_changelog}${changelog_end}"
     echo -e $changelog > CHANGELOG.md
