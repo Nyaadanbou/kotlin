@@ -89,6 +89,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib:${kotlinVersion}")
     implementation("org.jetbrains.kotlin:kotlin-reflect:${kotlinVersion}")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:${coroutinesVersion}")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-debug:${coroutinesVersion}")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:${serializationVersion}")
     implementation("org.jetbrains.kotlinx:atomicfu:${atomicfuVersion}")
     implementation("org.jetbrains.kotlinx:kotlinx-io-core:${kotlinIoVersion}")
