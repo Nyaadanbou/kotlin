@@ -1,0 +1,18 @@
+{
+  "name": "Kotlin",
+  "version": "${project.ext.kotlin_version}",
+  "description": "${project.description}",
+  "entrypoints": [],
+  "transformers": [],
+  "authors": [
+    "Nailm"
+  ],
+  "load_datapack_entry": false,
+  "mixins": [],
+  "wideners": [],
+  "dependencies": {
+    "server": {},
+    "bootstrap": {},
+    "horizon": {}
+  }
+}

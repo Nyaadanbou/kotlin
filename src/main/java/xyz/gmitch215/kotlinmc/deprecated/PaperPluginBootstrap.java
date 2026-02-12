@@ -1,4 +1,4 @@
-package xyz.gmitch215.kotlinmc;
+package xyz.gmitch215.kotlinmc.deprecated;
 
 import io.papermc.paper.plugin.bootstrap.BootstrapContext;
 import io.papermc.paper.plugin.bootstrap.PluginBootstrap;

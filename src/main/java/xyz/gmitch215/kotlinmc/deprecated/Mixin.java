@@ -1,4 +1,4 @@
-package xyz.gmitch215.kotlinmc;
+package xyz.gmitch215.kotlinmc.deprecated;
 
 import org.objectweb.asm.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;

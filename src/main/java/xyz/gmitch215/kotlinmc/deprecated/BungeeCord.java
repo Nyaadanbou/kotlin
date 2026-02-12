@@ -1,4 +1,4 @@
-package xyz.gmitch215.kotlinmc;
+package xyz.gmitch215.kotlinmc.deprecated;
 
 import net.md_5.bungee.api.plugin.Plugin;
 
